@@ -1,0 +1,12 @@
+Const PI = 3.14
+
+1. Var is both reassignable and you can redeclare it, but let cannot be redeclared, only reassigned. Hoisting
+is permitted with Var and not let.
+
+2. Var is both reassignable and can be redeclared, but const can not be either reassigned or redeclared.
+
+3. Let can at least be reassigned, but const cannot be reassigned or recdeclared. 
+
+
+4. Hoisting is where the variables are put before their first use if they weren't already. This can 
+only be done with var.
